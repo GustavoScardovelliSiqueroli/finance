@@ -1,0 +1,8 @@
+{
+  "name": "finance",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "284522bd"
+}
